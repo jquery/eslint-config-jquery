@@ -2,7 +2,7 @@
   "name": "eslint-config-jquery",
   "version": "1.0.0",
   "description": "jQuery eslint config",
-  "main": "index.js",
+  "main": ".eslintrc.json",
   "scripts": {
     "test": "eslint test/fixtures/core.js"
   },
