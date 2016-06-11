@@ -1,5 +1,6 @@
 {
 	"rules": {
+		"no-negated-in-lhs": "error",
 		"no-cond-assign": [
 			"error",
 			"except-parens"
