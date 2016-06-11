@@ -26,7 +26,7 @@
 		],
 
 		// Shows errors where jshint wouldn't (see jshint "expr" rule)
-		// clarifing this with eslint team
+		// clarifying this with eslint team
 		// "no-unused-expressions": "error",
 		"wrap-iife": [
 			"error",
@@ -35,8 +35,7 @@
 		"no-caller": "error",
 		"quotes": [
 			"error",
-			"double",
-			"avoid-escape"
+			"double"
 		],
 		"no-undef": "error",
 		"no-unused-vars": "error",

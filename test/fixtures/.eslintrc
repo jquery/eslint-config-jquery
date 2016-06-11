@@ -8,7 +8,7 @@ extends: ../../.eslintrc
 root: true
 
 rules:
-  // For builded version
-  // TODO: do not use builded version to check the code
+  // For the built version
+  // TODO: do not use the built version to check the code
   lines-around-comment: "off"
   no-multiple-empty-lines: "off"
