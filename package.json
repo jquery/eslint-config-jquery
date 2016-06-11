@@ -20,7 +20,7 @@
     "jquery"
   ],
   "files": [
-    ".eslintrc"
+    ".eslintrc.json"
   ],
   "author": "Gaidarenko Oleg <markelog@gmail.com>",
   "license": "MIT",

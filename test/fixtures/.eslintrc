@@ -3,7 +3,7 @@ globals:
   window: true
   module: true
 
-extends: ../../.eslintrc
+extends: ../../.eslintrc.json
 
 root: true
 
