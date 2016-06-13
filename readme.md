@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/jquery/jquery-eslint-config.svg)](https://travis-ci.org/jquery/jquery-eslint-config)
+[![Build Status](https://travis-ci.org/jquery/eslint-config-jquery.svg)](https://travis-ci.org/jquery/eslint-config-jquery)
 
 # jQuery eslint config
 
 ## Usage
 
 ```sh
-npm install --save-dev jquery-eslint-config
+npm install --save-dev eslint-config-jquery
 ```
 
 Configure ESLint with a `.eslintrc` file using the following contents:
