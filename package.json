@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "eslint-config-jquery"
+    "url": "jquery/eslint-config-jquery"
   },
   "homepage": "https://contribute.jquery.org/style-guide/js/",
   "issues": "https://github.com/jquery/eslint-config-jquery/issues",
