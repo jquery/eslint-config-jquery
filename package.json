@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jquery",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "jQuery eslint config",
   "main": ".eslintrc.json",
   "scripts": {
