@@ -25,10 +25,10 @@
 			"error",
 			"smart"
 		],
-
-		// Shows errors where jshint wouldn't (see jshint "expr" rule)
-		// clarifying this with eslint team
-		// "no-unused-expressions": "error",
+		"no-unused-expressions": "error",
+		"no-sequences": "error",
+		"no-nested-ternary": "error",
+		"no-unreachable": "error",
 		"wrap-iife": [
 			"error",
 			"inside"
