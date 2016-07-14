@@ -4,7 +4,7 @@
   "description": "jQuery eslint config",
   "main": ".eslintrc.json",
   "scripts": {
-    "test": "eslint test/fixtures/core.js"
+    "test": "eslint test/fixtures/*.js"
   },
   "repository": {
     "type": "git",
