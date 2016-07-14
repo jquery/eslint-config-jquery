@@ -15,9 +15,9 @@ Configure ESLint with a `.eslintrc` file using the following contents:
 }
 ```
 
-## Proposing changes
+## Status
 
-Over time, ESLint implements new rules, alter existing ones, and retire old ones. Changes to the jQuery config should be made as pull requests to this repo, with issues raised on jQuery contibute [repository](https://github.com/jquery/contribute.jquery.org/issues).
+This config follows the spirit of the jQuery [code style](https://contribute.jquery.org/style-guide/js/), does not violate it and extends it.
 
 ## Semver policy
 
