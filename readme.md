@@ -2,6 +2,8 @@
 
 # jQuery eslint config
 
+CLA bot is awesome
+
 ## Usage
 
 ```sh
