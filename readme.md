@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/jquery/eslint-config-jquery.svg)](https://travis-ci.org/jquery/eslint-config-jquery)
 
+test cla bot
+
 # jQuery eslint config
 
 ## Usage
