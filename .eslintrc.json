@@ -39,7 +39,13 @@
 			"double"
 		],
 		"no-undef": "error",
-		"no-unused-vars": "error",
+		"no-unused-vars": [
+			"error",
+			{
+				"args":  "all",
+				"argsIgnorePattern": "^_"
+			}
+		],
 		"operator-linebreak": [
 			"error",
 			"after"
