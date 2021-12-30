@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/jquery/eslint-config-jquery.svg)](https://travis-ci.org/jquery/eslint-config-jquery)
-
-# jQuery eslint config
+# jQuery ESLint config
 
 ## Usage
 
