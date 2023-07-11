@@ -2,7 +2,7 @@
   "name": "eslint-config-jquery",
   "version": "3.0.0",
   "description": "jQuery eslint config",
-  "main": ".eslintrc.json",
+  "main": "index.js",
   "scripts": {
     "test": "eslint test/fixtures/*.js"
   },
@@ -21,7 +21,7 @@
     "eslintconfig"
   ],
   "files": [
-    ".eslintrc.json"
+    "index.js"
   ],
   "author": "Gaidarenko Oleg <markelog@gmail.com>",
   "license": "MIT",
