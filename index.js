@@ -60,6 +60,7 @@ module.exports = {
 		"space-before-blocks": [ "error", "always" ],
 		"space-in-parens": [ "error", "always" ],
 		"keyword-spacing": [ 2 ],
+		"template-curly-spacing": [ "error", "always" ],
 		semi: [ "error", "always" ],
 		"semi-spacing": [
 			"error",
